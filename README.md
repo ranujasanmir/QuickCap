@@ -45,7 +45,7 @@ QuickCap home is like this:
 ![QuickCap Home](./img/home27.PNG)
 
 **QuickCap V2.8.4.2:**
-![QuickCap Home](./img/home.PNG)
+![QuickCap Home](./img/home.png)
 
 _We will continue future UI same as V2.8.4.2 UI_
 
