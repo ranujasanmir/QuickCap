@@ -3,7 +3,7 @@
 
 **_`QuickCap` is a Windows software that can help you to take screenshot of your screen._**
 
-**⚠️PixCap has closed due to financial difficulties.  Please note that we will not be making any updates in the future.⛔**
+**⚠️Since 2023/10/07 PixCap has closed due to financial difficulties. Please note that we will not be making any updates in the future.⛔**
 
 ## Table of Contents
 
