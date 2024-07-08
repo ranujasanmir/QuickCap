@@ -18,7 +18,7 @@
 
 ## Installation
 
-To download go to [QuickCap](https://github.com/ranujasanmir/QuickCap/tree/main/QuickCap) folder and select any version that suitable for your system(Recommended to download latest version):
+To download go to [QuickCap](https://github.com/ranujasanmir/QuickCap/tree/main/QuickCap) folder and select any version that suitable for your system(Recommended to download latest version) or download from assets in any release:
 
 ![Download QuickCap](./img/install.PNG)
 
@@ -32,7 +32,7 @@ You can install QuickCap by opening installer and follow the installer.
 
 **How to Update:**
 
-You can update QuickCap by downloading and installing new version. But you will lose your premium subscription.(We will change subscription method in every version). But you can show proof that you are already purchased premium subscription and I will give your new premium subscription for free. Download latest application from [QuickCap](https://github.com/ranujasanmir/QuickCap/tree/main/QuickCap) folder.
+You can update QuickCap by downloading and installing new version. Download latest application from [QuickCap](https://github.com/ranujasanmir/QuickCap/tree/main/QuickCap) folder.
 
 ## How To Use
 
