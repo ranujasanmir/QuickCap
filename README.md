@@ -3,6 +3,7 @@
 
 **_`QuickCap` is a Windows software that can help you to take screenshot of your screen._**
 
+Currently Quickcap 2.7.3.1 is removed. Please Download Latest Version!
 
 ## Table of Contents
 
